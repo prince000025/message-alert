@@ -1,0 +1,5 @@
+[functions.threat-check]
+verify_jwt = false
+
+[functions.auto-scan]
+verify_jwt = false

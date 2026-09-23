@@ -1,0 +1,8 @@
+{
+  "name": "Truecaller Shield — Spam SMS & Cyber Defense",
+  "description": "Real-time mobile spam message & caller detection, threat analyzer, security training, and complete cyber defense tips playbook.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
